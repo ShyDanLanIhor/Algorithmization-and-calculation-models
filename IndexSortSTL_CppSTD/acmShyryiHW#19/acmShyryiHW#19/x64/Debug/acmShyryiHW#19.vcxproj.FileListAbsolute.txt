@@ -1,0 +1,8 @@
+C:\Users\bohda\source\repos\acmShyryiHW#19\acmShyryiHW#19\x64\Debug\acmShyryiHW#19.vcxproj.AssemblyReference.cache
+C:\Users\bohda\source\repos\acmShyryiHW#19\acmShyryiHW#19\x64\Debug\acmShyryiHW#19.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\bohda\source\repos\acmShyryiHW#19\acmShyryiHW#19\x64\Debug\acmShyryiHW19.MainForm.resources
+C:\Users\bohda\source\repos\acmShyryiHW#19\acmShyryiHW#19\x64\Debug\acmShyryiHW#19.vcxproj.GenerateResource.cache
+A:\LPNU\АМО\Домашні\19\acmShyryiHW#19\acmShyryiHW#19\x64\Debug\acmShyryiHW#19.vcxproj.AssemblyReference.cache
+A:\LPNU\АМО\Домашні\19\acmShyryiHW#19\acmShyryiHW#19\x64\Debug\acmShyryiHW#19.vcxproj.SuggestedBindingRedirects.cache
+A:\LPNU\АМО\Домашні\19\acmShyryiHW#19\acmShyryiHW#19\x64\Debug\acmShyryiHW19.MainForm.resources
+A:\LPNU\АМО\Домашні\19\acmShyryiHW#19\acmShyryiHW#19\x64\Debug\acmShyryiHW#19.vcxproj.GenerateResource.cache

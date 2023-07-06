@@ -1,0 +1,4 @@
+﻿  MainForm.cpp
+C:\Users\bohda\source\repos\acmShyryiHW#14\acmShyryiHW#14\MainForm.h(182,29): warning C4101: 'e': unreferenced local variable
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  acmShyryiHW#14.vcxproj -> C:\Users\bohda\source\repos\acmShyryiHW#14\x64\Debug\acmShyryiHW#14.exe

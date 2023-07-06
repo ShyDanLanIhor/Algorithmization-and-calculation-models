@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="windows_addon\async.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\core.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\detect-wakeup.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\dl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\error.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\fs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\fs-event.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\fs-poll.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\getaddrinfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\getnameinfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\handle.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\idna.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\inet.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\loop-watcher.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\pipe.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\poll.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\process.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\process-stdio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\random.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\signal.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\snprintf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\stream.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\strscpy.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\tcp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\thread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\threadpool.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\timer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\tty.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\udp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\util.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\uv-common.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\uv-data-getter-setters.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\version.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\winapi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="windows_addon\winsock.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="windows_addon\atomicops-inl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_addon\errno.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_addon\fs-fd-hash-inl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_addon\handle-inl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_addon\heap-inl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_addon\idna.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_addon\internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_addon\queue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_addon\req-inl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_addon\stream-inl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_addon\strscpy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_addon\threadpool.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_addon\uv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_addon\uv-common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_addon\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_addon\winapi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windows_addon\winsock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

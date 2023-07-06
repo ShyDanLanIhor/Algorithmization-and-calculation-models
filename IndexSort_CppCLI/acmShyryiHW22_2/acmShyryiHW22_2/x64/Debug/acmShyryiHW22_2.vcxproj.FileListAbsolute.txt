@@ -1,0 +1,4 @@
+C:\Users\bohda\source\repos\acmShyryiHW22_2\acmShyryiHW22_2\x64\Debug\acmShyryiHW22_2.vcxproj.AssemblyReference.cache
+C:\Users\bohda\source\repos\acmShyryiHW22_2\acmShyryiHW22_2\x64\Debug\acmShyryiHW22_2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\bohda\source\repos\acmShyryiHW22_2\acmShyryiHW22_2\x64\Debug\acmShyryiHW222.ShyryiForm.resources
+C:\Users\bohda\source\repos\acmShyryiHW22_2\acmShyryiHW22_2\x64\Debug\acmShyryiHW22_2.vcxproj.GenerateResource.cache

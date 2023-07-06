@@ -1,0 +1,3 @@
+C:\Users\bohda\source\repos\acmShyryiHW28_1\acmShyryiHW28_1\obj\Debug\acmShyryiHW28_1.njsproj.AssemblyReference.cache
+C:\Users\bohda\source\repos\acmShyryiHW28_1\acmShyryiHW28_1\obj\Debug\acmShyryiHW28_1.njsproj.CoreCompileInputs.cache
+C:\Users\bohda\source\repos\acmShyryiHW28_1\acmShyryiHW28_1\bin\Microsoft.NodejsTools.WebRole.dll

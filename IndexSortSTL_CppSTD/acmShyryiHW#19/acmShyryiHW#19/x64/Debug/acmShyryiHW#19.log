@@ -1,0 +1,4 @@
+﻿  MainForm.cpp
+A:\LPNU\АМО\Домашні\19\acmShyryiHW#19\acmShyryiHW#19\MainForm.h(237,30): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  acmShyryiHW#19.vcxproj -> A:\LPNU\АМО\Домашні\19\acmShyryiHW#19\x64\Debug\acmShyryiHW#19.exe

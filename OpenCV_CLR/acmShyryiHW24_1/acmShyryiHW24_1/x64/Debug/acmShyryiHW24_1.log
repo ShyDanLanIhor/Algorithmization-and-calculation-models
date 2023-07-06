@@ -1,0 +1,7 @@
+﻿  ShyryiForm.cpp
+A:\LPNU\АМО\Розширення\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+A:\LPNU\АМО\Розширення\opencv\build\include\opencv2\core\cuda.inl.hpp(487): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  ShyryiForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  acmShyryiHW24_1.vcxproj -> C:\Users\bohda\source\repos\acmShyryiHW24_1\x64\Debug\acmShyryiHW24_1.exe

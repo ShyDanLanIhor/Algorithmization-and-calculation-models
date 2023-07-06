@@ -1,0 +1,8 @@
+C:\Users\bohda\source\repos\acmShyryiHW24_1\acmShyryiHW24_1\x64\Release\acmShyryiHW24_1.vcxproj.AssemblyReference.cache
+C:\Users\bohda\source\repos\acmShyryiHW24_1\acmShyryiHW24_1\x64\Release\acmShyryiHW24_1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\bohda\source\repos\acmShyryiHW24_1\acmShyryiHW24_1\x64\Release\acmShyryiHW241.ShyryiForm.resources
+C:\Users\bohda\source\repos\acmShyryiHW24_1\acmShyryiHW24_1\x64\Release\acmShyryiHW24_1.vcxproj.GenerateResource.cache
+A:\LPNU\АМО\Домашні\24(1)\acmShyryiHW24_1\acmShyryiHW24_1\x64\Release\acmShyryiHW24_1.vcxproj.AssemblyReference.cache
+A:\LPNU\АМО\Домашні\24(1)\acmShyryiHW24_1\acmShyryiHW24_1\x64\Release\acmShyryiHW24_1.vcxproj.SuggestedBindingRedirects.cache
+A:\LPNU\АМО\Домашні\24(1)\acmShyryiHW24_1\acmShyryiHW24_1\x64\Release\acmShyryiHW241.ShyryiForm.resources
+A:\LPNU\АМО\Домашні\24(1)\acmShyryiHW24_1\acmShyryiHW24_1\x64\Release\acmShyryiHW24_1.vcxproj.GenerateResource.cache

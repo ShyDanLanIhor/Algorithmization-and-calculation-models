@@ -1,0 +1,6 @@
+C:\Users\bohda\source\repos\acmShyryiHW27_1\acmShyryiHW27_1\obj\Debug\acmShyryiHW27_1.njsproj.AssemblyReference.cache
+C:\Users\bohda\source\repos\acmShyryiHW27_1\acmShyryiHW27_1\obj\Debug\acmShyryiHW27_1.njsproj.CoreCompileInputs.cache
+C:\Users\bohda\source\repos\acmShyryiHW27_1\acmShyryiHW27_1\bin\Microsoft.NodejsTools.WebRole.dll
+A:\LPNU\АМО\Домашні\27(1)\acmShyryiHW27_1\acmShyryiHW27_1\obj\Debug\acmShyryiHW27_1.njsproj.AssemblyReference.cache
+A:\LPNU\АМО\Домашні\27(1)\acmShyryiHW27_1\acmShyryiHW27_1\obj\Debug\acmShyryiHW27_1.njsproj.CoreCompileInputs.cache
+A:\LPNU\АМО\Домашні\27(1)\acmShyryiHW27_1\acmShyryiHW27_1\bin\Microsoft.NodejsTools.WebRole.dll

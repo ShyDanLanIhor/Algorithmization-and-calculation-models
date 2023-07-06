@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\bohda\source\repos\acmShyryiHW28_2\acmShyryiHW28_2\main.c(162,26): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\bohda\source\repos\acmShyryiHW28_2\acmShyryiHW28_2\main.c(162,26): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  acmShyryiHW28_2.vcxproj -> C:\Users\bohda\source\repos\acmShyryiHW28_2\x64\Debug\acmShyryiHW28_2.exe
